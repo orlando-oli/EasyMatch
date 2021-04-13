@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "963964369182",
+      "firebase_url": "https://easymatch-abcc6.firebaseio.com",
+      "project_id": "easymatch-abcc6",
+      "storage_bucket": "easymatch-abcc6.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:963964369182:android:723cc175840b1173c8310f",
+          "android_client_info": {
+            "package_name": "com.easymatch"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "963964369182-26mvsccbjlg04pmqek5h1vq91vfsg15m.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC6dhv1Vm8jK-DHlNmz-FTvJQ3ER24Udm8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "963964369182-26mvsccbjlg04pmqek5h1vq91vfsg15m.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
