@@ -17,17 +17,17 @@ O EasyMatch é um aplicativo simples para o sistema Android, com uma premissa in
 
 O público alvo do aplicativo são pessoas que procuram se reunir para praticar esportes e estabelecimentos esportivos que procuram reunir pessoas para partidas de esportes coletivos e torneios.
 
-## A tecnologia
+## Tecnologia
 - Componentes nativos do Android, como o sistema de localização
 - React-native, a framework utilizada para construir o aplicativo mobile.
 - MongoDB, o banco de dados NoSQL da aplicação
 - Express, o servidor em Node.js
 - GitLab
 
-## O resultado
+## Resultado
 No arquivo resultados.pdf é possível visualizar o resultado do aplicativo, suas telas e funcionalidades que foram implementadas no tempo de um semestre, além de uma apresentação de seu desenvolvimento e desafios.
 
-## O aprendizado
+## Aprendizado
 Todos os integrantes foram capazes de trabalhar juntos e desenvolver suas habilidades de git, scrum, desenvolvimento ágil, arquitetura de software, modelagem de software e testes.
 
 Além disso, através do estudo "autodidata", todos os integrantes foram capazes de aprender como construir uma aplicação completa, com front-end e back-end, utilizando a stack descrita acima.
