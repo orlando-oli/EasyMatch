@@ -19,7 +19,7 @@ O público alvo do aplicativo são pessoas que procuram se reunir para praticar 
 
 ## Tecnologia
 - Componentes nativos do Android, como o sistema de localização
-- React-native, a framework utilizada para construir o aplicativo mobile.
+- React Native, a framework utilizada para construir o aplicativo mobile.
 - MongoDB, o banco de dados NoSQL da aplicação
 - Express, o servidor em Node.js
 - GitLab
